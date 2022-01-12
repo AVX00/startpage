@@ -359,4 +359,7 @@ body {
     border-radius: 4px;
     padding: 1.5em 0em;
   }
+  body {
+    padding: 0 1vw;
+  }
 }
